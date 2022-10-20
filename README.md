@@ -13,4 +13,8 @@ simple exapmles for Git training demos.
 
 ## Deployment
 
+This can be deployed on any web service
+
 ## How to Contribute
+
+To contribute, simpoly participate in the demo on Udemy
