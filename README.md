@@ -17,7 +17,7 @@ This can be deployed on any web service
 
 ## How to Contribute
 
-To contribute, simpoly participate in the demo on Udemy
+Please fork this repository and then issue Pull Request
 
 ###Copyright
 
