@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lance Bunch     lbunch@hedgeserv.com      stinky
 
 # THANKS
 
