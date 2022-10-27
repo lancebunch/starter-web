@@ -18,3 +18,7 @@ This can be deployed on any web service
 ## How to Contribute
 
 To contribute, simpoly participate in the demo on Udemy
+
+###Copyright
+
+2022 Git.Training.
